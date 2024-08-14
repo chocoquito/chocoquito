@@ -1,5 +1,5 @@
 <!-- mude a mensagem inicial para seu nome ou oq quiser -->
-<h2 align="left">Ola!! Meu nome é choco kkkk</h2>
+<h2 align="left">Oiii! Meu nome é choquito kkkk</h2>
 
 ###
 <!--a baixo a onde estiver escrito username=raizinraizen vc troca para o norme que etsa em seu perfil.
