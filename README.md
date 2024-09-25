@@ -1,9 +1,7 @@
-<!-- mude a mensagem inicial para seu nome ou oq quiser -->
-<h2 align="left">Oiii! Meu nome é choquito kkkk</h2>
+
+<h2 align="left">hello i'm choco;)</h2>
 
 ###
-<!--a baixo a onde estiver escrito username=raizinraizen vc troca para o norme que etsa em seu perfil.
-Existem alguns temas diferentes qualquer coisa se quiser mudar me avisa-->
 <table>
   <tr>
     <td style="text-align: center;">
@@ -17,11 +15,9 @@ Existem alguns temas diferentes qualquer coisa se quiser mudar me avisa-->
 
 
 ###
-<!-- aqui vc pode escolher o link do gif que quiser so colocar ele no lugar do outro link-->
 <img align="right" height="150" src="https://th.bing.com/th/id/R.24f5c9c5358d3d1340affe0bde406f19?rik=MGNNo4nNptoBgg&riu=http%3a%2f%2fpa1.narvii.com%2f6368%2fd3923788a8e0cb8ad4f3c2c945d81774e06578c3_00.gif&ehk=KfY0MGPKIyIPNvht7Y5yfIXUwu4gpAlLb3dX9iXj1Qk%3d&risl=&pid=ImgRaw&r=" />
 
 ##
-<!-- a qui vc pode colocar basicamente oq quiser uma descrição de como vc trabalha do que vc faz etc... eu coloquei oq estou estudando e coloquei o link das imagens caso queira tirar é so apagar ou trocar por outro link-->
 <div align="left">
   <h3> 📚 Estudando: </h3>
   <img width="12" />
@@ -32,7 +28,6 @@ Existem alguns temas diferentes qualquer coisa se quiser mudar me avisa-->
 </div>
 
 ##
-<!-- a qui são minhas redes sociais e contato troque o link das minhas redes pelo link das suas redes-->
 <div align="left">
   <a href="https://www.instagram.com/euchoquito/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -54,4 +49,3 @@ Existem alguns temas diferentes qualquer coisa se quiser mudar me avisa-->
 ###
 
 ###
-<!-- Existe mais algumas coisas q da pra adicionar ou fazer qualquer duvida pode falar comigo-->
