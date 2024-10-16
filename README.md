@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
  <img width="12" />
- <img src="https://th.bing.com/th/id/OIP.8L9Q5v4RcMwyfa8Gw1iccAHaHs?rs=1&pid=ImgDetMain"  height="30" alt="c++ logo" />
+ <img src="https://th.bing.com/th/id/OIP.PXNp62LLV-aLT2ZUpHupZgHaHw?rs=1&pid=ImgDetMain"  height="30" alt="c++ logo" />
    
  
 </div>
