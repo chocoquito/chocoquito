@@ -24,6 +24,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
+ <img width="12" />
+ <img src="https://th.bing.com/th/id/OIP.8L9Q5v4RcMwyfa8Gw1iccAHaHs?rs=1&pid=ImgDetMain" />
+   
  
 </div>
 
